@@ -11,5 +11,5 @@ Addon Bash Script which utilizes mid3v2 to Tag Audio Files with their own File N
 	Avaialble Commands:
 	-h: Help!
 	-b: Cut Backwards
-	-c: Cutoff Text [Requires Arguments]
+	-c: Cutoff Text [Requires Arguments] #NOTE: Default Cuts Forward! Ex: ./mp3Tag -c "- " -s "/M - BGM" Results in "BGM"
 	-s: Single File [Requires Arguments]
