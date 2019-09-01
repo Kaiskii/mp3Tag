@@ -1,6 +1,8 @@
 # mp3Tag
 Addon Bash Script which utilizes mid3v2 to Tag Audio Files with their own File Name.
 
+Do keep in mind if ran without the -s flag, it will start tagging every .mp3 file in the folder the bash file is located!
+
 ./mp3Tag -h
 
 	Help Page:
